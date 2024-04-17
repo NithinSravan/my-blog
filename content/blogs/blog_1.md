@@ -21,4 +21,4 @@ Getting Zola up and running on your machine is pretty straightforward. The initi
 
 ## Why this blog?
 
-This blog is a way for me to help myself grow and explore more stuff. I wish to  I wish to focus majorly on tech, but I do plan to sneak in some non-tech posts, where I talk about my interests, hot takes, and more. So stay tuned folks. Until next time. 
+This blog is a way for me to help myself grow and explore more stuff. I wish to focus majorly on tech, but I do plan to sneak in some non-tech posts, where I talk about my interests, hot takes, and more. So stay tuned folks. Until next time. 
