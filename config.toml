@@ -1,6 +1,6 @@
 base_url = "https://nithinsravan.github.io/"
 title = "mind-voice"
-description = "This is an example description"
+description = "Grab a cup of coffee and hear me out."
 build_search_index = false
 generate_feed = true
 compile_sass = true
