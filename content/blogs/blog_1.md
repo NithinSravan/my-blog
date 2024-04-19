@@ -1,5 +1,5 @@
 +++
-title = "1. Hello World"
+title = "Hello World"
 date = "2024-04-17"
 
 [taxonomies]
