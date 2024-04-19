@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>mind-voice</title>
-    <subtitle>This is an example description</subtitle>
+    <subtitle>Grab a cup of coffee and hear me out.</subtitle>
     <link rel="self" type="application/atom+xml" href="https://nithinsravan.github.io/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://nithinsravan.github.io/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-04-17T00:00:00+00:00</updated>
     <id>https://nithinsravan.github.io/atom.xml</id>
     <entry xml:lang="en">
-        <title>Hello World</title>
+        <title>1. Hello World</title>
         <published>2024-04-17T00:00:00+00:00</published>
         <updated>2024-04-17T00:00:00+00:00</updated>
         
