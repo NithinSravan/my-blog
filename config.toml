@@ -1,4 +1,4 @@
-base_url = "https://nithinsravan.github.io/"
+base_url = "/"
 title = "mind-voice"
 description = "Grab a cup of coffee and hear me out."
 build_search_index = false
